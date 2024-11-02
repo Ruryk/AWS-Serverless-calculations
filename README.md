@@ -152,13 +152,16 @@ zip -r image-converter.zip index.mjs package.json node_modules/
 ## Decoding the Image
 
 - For BMP (bmp):
-  ![decode-bmp](images/decode-bmp.png)
+  
+![decode-bmp](images/decode-bmp.png)
 
 - For PNG (png):
-  ![decode-png](images/decode-png.png)
+  
+![decode-png](images/decode-png.png)
 
 - For GIF (bmp):
-  ![decode-gif](images/decode-gif.png)
+
+![decode-gif](images/decode-gif.png)
 
 ## Payload Example
 
