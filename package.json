@@ -1,0 +1,16 @@
+{
+  "name": "hsa12-29.-aws-serverless-calculations",
+  "version": "1.0.0",
+  "description": "AWS Lambda function to convert JPEG images to BMP, GIF, and PNG.",
+  "main": "lambda_function.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "dependencies": {
+    "jimp": "^1.6.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
